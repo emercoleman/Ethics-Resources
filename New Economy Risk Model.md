@@ -19,7 +19,7 @@ Where’s the power?
 
 
 Consider the Opportunities
-How might you increase process transparency6. How might you enable broader social value? 
+How might you increase process transparency? How might you enable broader social value? 
 
 # Context A: Considering Human Rights
 Tech products and services have demonstrable positive and negative impact on people's access to income & housing, opportunities in healthcare & education and reliable information & communication. Therefore, considering our impact on people and creating tech that is valuable to people is essential. 
